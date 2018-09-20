@@ -1,9 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
     <head>
-        <title>Brett Learning HTML</title>
+        <title>HTML Learnings</title>
     </head>
     <body>
         <h1>Brett's Webpage</h1>
+        <p title="use it for SEO, search engine optimization">Welcome</p>
+          
+    
+        <p style="color: #888888">This is a line of text!</p> <!--this overides any other CSS that is being done, only applies to this line-->
+        
     </body>
 </html>
